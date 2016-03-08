@@ -1,1 +1,9 @@
+GameBlendJS is a WebGL/Babylon.js based game engine.  It 
+uses the .blend file format from Blender as it's main file format.  
 
+Since .blend files are structured memory dumps, GameBlendJS 
+implements Blender's data structures as JS classes.
+
+BlendJS uses its own class system and supports aspect-oriented
+programming, which is more suited for game development (it's
+much more powerful than normal mixins).
