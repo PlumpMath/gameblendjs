@@ -1,5 +1,8 @@
 =Introduction=
 
+<img alt="Screenshot" src="https://raw.githubusercontent.com/joeedh/gameblendjs/master/screenshot.png">
+</img>
+
 GameBlendJS is a WebGL/Babylon.js based game engine.  It 
 uses the .blend file format from Blender as it's main file format.  
 
