@@ -59,7 +59,7 @@ function getMimeType(path) {
   return "application/x-octet-stream";
 }
 
-/*
+//*
 router.get(/\/characters\/.+/, function(req, res, next) {
   var path = req.path;
   var path2 = "";
@@ -80,7 +80,12 @@ router.get(/\/characters\/.+/, function(req, res, next) {
     path2 += path[i];
   }
   
-  path2 = "../" + path2
+  if (path2[0] != "/") {
+    path2 = "/" + path2;
+  }
+  
+  path2 = "blender/" + path2
+  console.log("PATH2:", path2)
   
   var buf = fs.readFileSync(path2)
 

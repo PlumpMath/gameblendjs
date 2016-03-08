@@ -10,6 +10,11 @@ BlendJS uses its own class system and supports aspect-oriented
 programming, which is more suited for game development (it's
 much more powerful than normal mixins).
 
+=Status=
+
+Still in implementation phase.  Current project
+is finishing the logic node system.
+
 =Requirements=
 
 1. Node.js
