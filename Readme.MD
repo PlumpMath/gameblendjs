@@ -13,6 +13,10 @@ BlendJS uses its own class system and supports aspect-oriented
 programming, which is more suited for game development (it's
 much more powerful than normal mixins).
 
+#Source Locations
+1. JavaScript sources are in public/scripts
+2. Blender python sources blender/dm
+
 #Status
 
 Still in implementation phase.  Current project
