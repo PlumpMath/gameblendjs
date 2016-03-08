@@ -1,6 +1,6 @@
 =Introduction=
 
-<img alt="Screenshot" width="300" src="https://raw.githubusercontent.com/joeedh/gameblendjs/master/screenshot.png">
+<img alt="Screenshot" width="500" src="https://raw.githubusercontent.com/joeedh/gameblendjs/master/screenshot.png">
 </img>
 
 GameBlendJS is a WebGL/Babylon.js based game engine.  It 
