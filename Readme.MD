@@ -1,4 +1,4 @@
-=Introduction=
+#Introduction
 
 <img alt="Screenshot" width="500" src="https://raw.githubusercontent.com/joeedh/gameblendjs/master/screenshot.png">
 </img>
@@ -13,15 +13,15 @@ BlendJS uses its own class system and supports aspect-oriented
 programming, which is more suited for game development (it's
 much more powerful than normal mixins).
 
-=Status=
+#Status
 
 Still in implementation phase.  Current project
 is finishing the logic node system.
 
-=Requirements=
+#Requirements
 
 1. Node.js
 2. NPM
 
-=Installation=
+#Installation
 Execute `npm update` in command line.
