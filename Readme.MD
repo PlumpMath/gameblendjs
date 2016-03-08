@@ -29,3 +29,9 @@ is finishing the logic node system.
 
 #Installation
 Execute `npm update` in command line.
+
+#Starting server
+Execure `node bin/www` in command line.  You should see
+something like `Starting server on port 3000.`
+
+Then navigate to http://localhost:3000
